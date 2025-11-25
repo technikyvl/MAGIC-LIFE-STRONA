@@ -1,4 +1,4 @@
-// File: C:\Users\kubix\Documents\GitHub\MAGIC-LANDING-PAGE-NEW\MAGICLIFELANDING\app\wspolpraca\layout.jsx
+// File: C:\Users\kubix\Documents\GitHub\MAGIC-LIFE-STRONA\app\wspolpraca\layout.jsx
 import * as entry from '../../../../app/wspolpraca/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

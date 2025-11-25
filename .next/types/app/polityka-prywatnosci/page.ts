@@ -1,4 +1,4 @@
-// File: C:\Users\kubix\Documents\GitHub\MAGIC-LANDING-PAGE-NEW\MAGICLIFELANDING\app\polityka-prywatnosci\page.jsx
+// File: C:\Users\kubix\Documents\GitHub\MAGIC-LIFE-STRONA\app\polityka-prywatnosci\page.jsx
 import * as entry from '../../../../app/polityka-prywatnosci/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
